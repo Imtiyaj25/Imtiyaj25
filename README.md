@@ -9,7 +9,7 @@
 <img align="left" width="29px" alt="ReactJS" src="https://github.com/Imtiyaj25/Imtiyaj25/assets/129411789/422db77c-578c-49d9-8f22-16c7ba4bac59"/>
 <img align="left" width="29px" alt="NextJS" src="https://github.com/Imtiyaj25/Imtiyaj25/assets/129411789/b23f2d74-3e10-4976-bd93-849fee1fb2d3"/>
 <img align="left" width="29px" alt="NodeJS" src="https://github.com/Imtiyaj25/Imtiyaj25/assets/129411789/483a2057-2332-41f9-8ff1-9e86b96965ba"/>
-<img align="left" width="29px" alt="ExpressJS" src="https://github.com/Imtiyaj25/Imtiyaj25/assets/129411789/62c33a43-8b5c-466c-b337-22d524483dc6"/>
+<img align="left" width="29px" alt="ExpressJS" src="https://github.com/Imtiyaj25/Imtiyaj25/assets/129411789/d419b86c-854e-4f20-8683-a2d483d9c42b"/>
 <!---
 Imtiyaj25/Imtiyaj25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
