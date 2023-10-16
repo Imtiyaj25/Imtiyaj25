@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Imtiyaj
 - 👀 I’m interested in learning new things everyday
-- 📫 Connect with me:
-- 
+
 &nbsp;**Languages and tools:**
 
 <img align="left" width="29px" alt="HTML5" src="https://github.com/Imtiyaj25/Imtiyaj25/assets/129411789/b8fda89f-cf08-4a17-a7b3-0392acb25fa2"/>
