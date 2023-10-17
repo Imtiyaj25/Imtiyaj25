@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Imtiyaj Sayyad
-- 👀 I’m interested in learning new things everyday
+- 👀 Learning new things everyday
 
 &nbsp;**Languages and tools:**
 
