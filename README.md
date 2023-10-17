@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Imtiyaj
+- 👋 Hi, I’m Imtiyaj Sayyad
 - 👀 I’m interested in learning new things everyday
 
 &nbsp;**Languages and tools:**
