@@ -1,4 +1,3 @@
-
 - 👋 Hi, I’m Imtiyaj Sayyad
 - 👀 Learn new things everyday
 
