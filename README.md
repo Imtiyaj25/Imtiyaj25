@@ -1,4 +1,4 @@
- - 👋 Hi, I’m Imtiyaj Sayyad
+- 👋 Hi, I’m Imtiyaj Sayyad
 - 👀 Learn new things everyday
 
 &nbsp;**Languages and tools:**
