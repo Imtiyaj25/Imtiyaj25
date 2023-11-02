@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Imtiyaj Sayyad
 - 👀 Learn new things everyday
 
+
 &nbsp;**Languages and tools:**
 
 <img align="left" width="49px" alt="HTML5" src="https://github.com/Imtiyaj25/Imtiyaj25/assets/129411789/b8fda89f-cf08-4a17-a7b3-0392acb25fa2"/>
