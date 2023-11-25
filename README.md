@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Imtiyaj Sayyad
 - 👀 Learn new things everyday
+- Full stact web development using web3 technology
 - FULL STACK WEB DEVELOPMENT USING
 WEB3 TECHNOLOGY
 
