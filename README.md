@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Imtiyaj Sayyad
 - 👀 Learn new things everyday
+- FULL STACK WEB DEVELOPMENT USING
+WEB3 TECHNOLOGY
 
 &nbsp;**Languages and tools:**
 
