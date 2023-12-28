@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Imtiyaj Sayyad(Software Engineer)
+ - 👋 Hi, I’m Imtiyaj Sayyad(Software Engineer)
 - 👀 Learn new things everyday
 - Full stact web development using web3 technology
 - MERN stact developer
